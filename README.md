@@ -1,13 +1,13 @@
 !["The Wisdom and/or Madness of Crowds"](http://ncase.me/crowds/social/thumb.png)
 
-# PLAY IT HERE: [http://ncase.me/crowds/](http://ncase.me/crowds/)
+# 本專案為 [http://ncase.me/crowds/](http://ncase.me/crowds/) 非官方繁體中文版本
 
-*The Wisdom and/or Madness of Crowds* is dedicated to the public domain,
-and was possible thanks to these open source/Creative Commons resources:
+本作品 *群眾的智慧以及瘋狂* 屬於公有領域,
+並得益於這些開源/知識的共享資源:
 
-**Music:** ["Friends 2018" and "Friends 2068"](http://freemusicarchive.org/music/Komiku/Tale_on_the_Late/) by Komiku (CC Zero)
+**音樂:** ["Friends 2018" and "Friends 2068"](http://freemusicarchive.org/music/Komiku/Tale_on_the_Late/) by Komiku (CC Zero)
 
-**Free Sound Effects:**
+**免費的音效:**
 
 * [Pencil Scratching](https://freesound.org/people/JasonElrod/sounds/85485/) by JasonElrod (CC BY)
 * [Long Confetti](https://freesound.org/people/dmjames/sounds/140095/) by dmjames (CC Zero)
@@ -22,13 +22,13 @@ and was possible thanks to these open source/Creative Commons resources:
 * [Sandbox: Delete Peep](https://freesound.org/people/Bash360/sounds/214854/) by Bash360 (CC Zero)
 * [Sandbox: Clear All](https://freesound.org/people/dogfishkid/sounds/399303/) by dogfishkid (CC BY)
 
-**Open Source Libraries:**
+**開源的程式庫:**
 
 * [Howler.js](https://howlerjs.com/) for the audio
 * [MinPubSub](https://github.com/daniellmb/MinPubSub) for publish/subscribe
 * [iNoBounce](https://github.com/lazd/iNoBounce/) for making iOS stop acting like a such a jerk
 
-**Font:** [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand) by Patrick Wagesreiter
+**字型:** [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand) by Patrick Wagesreiter
 
 # HOW TO TRANSLATE THIS THING
 
@@ -39,7 +39,7 @@ If so, maybe you can collaborate!
 And if no one else is, PLEASE CREATE A NEW ISSUE in this repo
 so that others know you're working on it!]**
 
-**Translations done so far:**
+**目前為止所翻譯的語言:**
 [Português](http://ncase.me/crowds/pt.html)
 [Italiano](http://ncase.me/crowds/it.html)
 [Français](http://ncase.me/crowds/fr.html)
